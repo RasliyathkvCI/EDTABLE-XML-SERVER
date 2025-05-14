@@ -1,0 +1,16 @@
+{
+  "name": "vmap-ads",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hosted VAST and VMAP XML files for ads",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "vercel": "^41.7.6"
+  }
+}

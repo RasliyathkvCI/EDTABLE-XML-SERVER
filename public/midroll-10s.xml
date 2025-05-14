@@ -1,0 +1,20 @@
+<VAST version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Ad id="midroll-10s">
+    <InLine>
+      <AdSystem>Sample Ad Server</AdSystem>
+      <AdTitle>Mid-roll Ad at 10th Second</AdTitle>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:05</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360">
+                https://devlqc.citrusdev.com/files/al-araby-network.mp4
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
